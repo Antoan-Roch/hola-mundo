@@ -1,5 +1,5 @@
-# hola-mundo
-repositorio de prueba
+# Hola Mundo
+mi primer repositorio de prueba
 
 Antonio Dikem
 
